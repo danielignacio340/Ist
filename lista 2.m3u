@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24 HRS MEA CULPA" tvg-logo="https://redgol.cl/__export/1594594348287/sites/redgol/img/2020/07/12/mea-culpa_crop1594594218283.jpg_1902800913.jpg" group-title="CANALES 24 HRS",24 HRS MEA CULPA
+http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/52426
+#EXTINF:-1 tvg-id="" tvg-name="24 HRS EL DIA MENOS PENSADO" tvg-logo="https://i0.wp.com/www.fotech.cl/wp-content/uploads/2015/11/el-dia-menos-.jpg" group-title="CANALES 24 HRS",24 HRS EL DIA MENOS PENSADO
+http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/59777
 #EXTINF:-1 tvg-id="" tvg-name="24 HRS  LOS SIMPSON HD (PS)" tvg-logo="https://toppng.com/uploads/preview/the-simpsons-clip-art-simpson-simpsons-clipart-115631189412x5haopbjg.png" group-title="CANALES 24 HRS",24 HRS  LOS SIMPSON HD (PS)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/6895
 #EXTINF:-1 tvg-id="" tvg-name="24 HRS Cinema Accion Classics ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/b4a73802169b63f34f28a2310e7a9786.png" group-title="CANALES 24 HRS",24 HRS Cinema Accion Classics ⁽ᴴᴰ⁾
@@ -23,6 +27,7 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/59511
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/59512
 #EXTINF:-1 tvg-id="" tvg-name="24 HRS Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/f74fd6b43a1a199bd726f0cc42d0a354.png" group-title="CANALES 24 HRS",24 HRS Cinema Familia ⁽ᴴᴰ⁾
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/59513
+
 #EXTINF:-1 tvg-id="" tvg-name="24 HRS Cinema Marvel Studios Este ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/739c45f8a7e55d7a52f83495323f662c.png" group-title="CANALES 24 HRS",24 HRS Cinema Marvel Studios Este ⁽ᴴᴰ⁾
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/59520
 #EXTINF:-1 tvg-id="" tvg-name="24 HRS Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/08d64e6263c1407b242a79fe20854168.png" group-title="CANALES 24 HRS",24 HRS Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾
@@ -55,14 +60,7 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/3743
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/3747
 #EXTINF:-1 tvg-id="" tvg-name="CANAL | PS TERROR" tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t1.0-9/73257460_10164229491085206_6909012133262917632_n.jpg?_nc_cat=108&_nc_oc=AQlp2-Os3jc_rareBKdzuPYd-36Tuc7-pLH1Pq65xunRICHZS3ap1S-jnbj_5OE5FwQ&_nc_ht=scontent.fqrc1-1.fna&oh=9c1fe666f65370a269cda1328dd965fa&oe=5E5E0044" group-title="CANALES EXCLUSIVOS PS",CANAL | PS TERROR
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/3744
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TSN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png" group-title="CANADA",CAN| TSN 3 HD
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/57233
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TSN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="CANADA",CAN| TSN 4 HD
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/57234
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TSN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png" group-title="CANADA",CAN| TSN 5 HD
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/57235
-#EXTINF:-1 tvg-id="" tvg-name="CAN| TVO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/TVO_HD.PNG" group-title="CANADA",CAN| TVO  HD
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/57236
+
 
 #EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="CHI | 13 CABLE (R)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/152.png" group-title="CHILE",CHI | 13 CABLE (R)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/735
@@ -374,10 +372,6 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/1939
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/4894
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE",CINE | HBO 2 HD (mv)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58795
-#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO EN ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="CINE",CINE | HBO EN ESPANOL USA HD (mv)
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58801
-#EXTINF:-1 tvg-id="I522.80406.schedulesdirect.org" tvg-name="CINE | HBO FAMILY EN ESPANOL USA HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE",CINE | HBO FAMILY EN ESPANOL USA HD (mv)
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58796
 #EXTINF:-1 tvg-id="I1610.80118.schedulesdirect.org" tvg-name="CINE | HBO FAMILY FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE",CINE | HBO FAMILY FHD (mv)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58797
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Family FHD (P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",CINE | HBO Family FHD (P)
@@ -396,8 +390,7 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58800
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/1941
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO HD (mv)" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE",CINE | HBO HD (mv)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58802
-#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="CINE | HBO LATINO HD USA (mv)" tvg-logo="http://tv.streamid.ga:8080/images/54e99501426cc22bef2c553b09545b5e.png" group-title="CINE",CINE | HBO LATINO HD USA (mv)
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58803
+
 #EXTINF:-1 tvg-id="I538.34887.schedulesdirect.org" tvg-name="CINE | HBO MUNDI HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="CINE",CINE | HBO MUNDI HD (mv)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58804
 
@@ -463,8 +456,7 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58820
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/4900
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SONY HD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE",CINE | SONY HD (mv)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58821
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY USA LATINO (mv)" tvg-logo="http://tv.streamid.ga:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE",CINE | SONY USA LATINO (mv)
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/58822
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SPACE (LT)" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2011/10/canal-space-890x501.jpg" group-title="CINE",CINE | SPACE (LT)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/4871
 #EXTINF:-1 tvg-id="I235.66349.schedulesdirect.org" tvg-name="CINE | SPACE FHD (mv)" tvg-logo="http://tv.streamid.ga:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE",CINE | SPACE FHD (mv)
@@ -712,8 +704,7 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/260
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/570
 #EXTINF:-1 tvg-id="I495.73833.schedulesdirect.org" tvg-name="DEP| ESPN 3 SUR HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",DEP| ESPN 3 SUR HD (A)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/3118
-#EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN Deportes HD USA" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",DEP| ESPN Deportes HD USA
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/264
+
 #EXTINF:-1 tvg-id="" tvg-name="DEP| ESPN PLUS (NX)" tvg-logo="https://static1.squarespace.com/static/53aadc2ae4b09e753af34203/t/5a8c513be2c48381c8c625b7/1519145280958/ESPN-Plus-Logo.png" group-title="DEPORTES",DEP| ESPN PLUS (NX)
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/47732
 #EXTINF:-1 tvg-id="" tvg-name="DEP| FOX SPORTS 1 A CHILE | FHD" tvg-logo="data:image/png;base64,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" group-title="DEPORTES",DEP| FOX SPORTS 1 A CHILE | FHD
@@ -747,8 +738,6 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/283
 #EXTINF:-1 tvg-id="" tvg-name="DEP| M. Liga de Campeones FHD" tvg-logo="https://i.imgur.com/fQN832j.jpg" group-title="DEPORTES",DEP| M. Liga de Campeones FHD
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/586
 
-#EXTINF:-1 tvg-id="" tvg-name="Dep|| beIN Sports en Español |USA Opc 1" tvg-logo="" group-title="USA 2",Dep|| beIN Sports en Español |USA Opc 1
-http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/41099
 #EXTINF:-1 tvg-id="" tvg-name="Dual-A&E FHD" tvg-logo="" group-title="DUAL AUDIO",Dual-A&E FHD
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/22708
 #EXTINF:-1 tvg-id="" tvg-name="Dual-AMC FHD" tvg-logo="" group-title="DUAL AUDIO",Dual-AMC FHD
@@ -1016,3 +1005,8 @@ http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/22673
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/22677
 #EXTINF:-1 tvg-id="" tvg-name="MU| Y2K MUSIC CHOICE" tvg-logo="" group-title="MUSICA",MU| Y2K MUSIC CHOICE
 http://iptv.premiumstore.biz:8080/Nf5gTfLfBI/ZPEfXL04PN/22680
+
+
+
+
+
